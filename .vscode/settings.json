@@ -1,0 +1,10 @@
+"java.configuration.runtimes": [
+    {
+        "name": "JavaSE-26",
+        "path": "C:\\Users\\Víctor\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\latest"
+    },
+    {
+        "name": "JavaSE-25",
+        "path": "C:\\Users\\Víctor\\AppData\\Roaming\\Code\\User\\globalStorage\\pleiades.java-extension-pack-jdk\\java\\25"
+    }
+],
